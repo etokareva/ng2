@@ -1,5 +1,8 @@
 {
   "$schema": "../../node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "b810eea2-775b-4f63-85cb-ee9effeef3d3"
+  },
   "version": 1,
   "projects": {
     "qgrid-ngx-plugins": {
